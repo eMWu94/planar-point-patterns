@@ -1,3 +1,12 @@
+# Ignore temporary experiments at the repository root.
+/scratch/
+
+# Ignore generated simulation results at the repository root.
+/outputs/
+
+# Ignore environment files such as .env.local and .env.production.
+.env.*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
