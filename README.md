@@ -48,7 +48,7 @@ In R, spatstat.random provides a broad collection of spatial point-process
 simulators, including Poisson, inhibitory, cluster, Cox, and Gibbs models.
 Using it from Python through rpy2 requires an R installation.
 [spatstat.random](https://cran.r-project.org/package=spatstat.random) ·
-[rpy2 requirements](https://rpy2.github.io/doc/latest/html/overview.html#requirements)
+[rpy2 documentation](https://rpy2.github.io/doc/latest/html/overview.html)
 
 ## Development approach
 
