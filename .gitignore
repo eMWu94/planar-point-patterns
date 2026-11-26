@@ -1,11 +1,20 @@
+# Ignore operating system files.
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Ignore VS Code local history.
+.history/
+
 # Ignore temporary experiments at the repository root.
 /scratch/
 
 # Ignore generated simulation results at the repository root.
 /outputs/
 
-# Ignore environment files such as .env.local and .env.production.
+# Ignore environment files but allow configuration templates.
 .env.*
+!.env.example
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
