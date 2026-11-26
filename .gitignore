@@ -6,6 +6,9 @@ Desktop.ini
 # Ignore VS Code local history.
 .history/
 
+# Ignore personal documentation and local project materials.
+/local/
+
 # Ignore temporary experiments at the repository root.
 /scratch/
 
